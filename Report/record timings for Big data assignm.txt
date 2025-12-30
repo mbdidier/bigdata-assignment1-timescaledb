@@ -1,0 +1,22 @@
+record timings for Big data assignment1:
+
+03_queries_3h.sql
+
+1. Time: 172.970 ms
+2. Time: 237.249 ms
+3. Time: 1333.314 ms (00:01.333)
+4. Time: 196.522 ms
+
+03_queries_day.sql
+
+1. Time: 174.581 ms
+2. Time: 401.392 ms
+3. Time: 1508.134 ms (00:01.508)
+4. Time: 181.283 ms
+
+03_queries_week.sql
+
+1. Time: 198.496 ms
+2. Time: 712.522 ms
+3. Time: 1100.514 ms (00:01.101)
+4. Time: 249.537 ms
